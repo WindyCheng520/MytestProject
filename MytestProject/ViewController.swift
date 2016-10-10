@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("hello")
     }
+    
+    func fuck() {
+         print("Fuck you!!!")
+    }
 
 
 
